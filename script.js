@@ -4,7 +4,7 @@ $(function(){
   });
 });
 $(function(){
- $("close-modal").click(function(){
+ $("#close-modal").click(function(){
     $("#signup-modal").hide();
   });
 });
